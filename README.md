@@ -9,6 +9,24 @@ This repository is simply a curated list of words I have collected for my own pl
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## License
 
 This project is dedicated to the public domain under the Creative Commons Zero (CC0 1.0 Universal) license. You are free to use these words for any creative, personal, or commercial project.
